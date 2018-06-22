@@ -1,0 +1,11 @@
+{
+    "status": 1,
+    "data":[{
+        "id": 1,
+        "company": "安徽互感器有限公司",
+        "lng": 116.404,
+        "lat": 39.915,
+        "icon": "images/ico_r.png",
+        "address": "安徽省蚌埠市"
+    }]
+}
